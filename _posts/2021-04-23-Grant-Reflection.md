@@ -6,7 +6,7 @@ As well as being unfamiliar with grant writing, I enetred this class unfamiliar 
 
 When I was asked to choose a topic for a theoretical grant, I had no idea where to start. I brainstormed what topics in the humanitie sinterested me and came up short at first. I am not into classical literature or art or historical events. After completing the second project review, I knew what humanities subject I wanted to examine: Fan studies. I love fan-written literature and I personally believe it is a highly underrated source of literature. 
 
-![Star Wars Title](https://kelsiesmith.github.io/kelsiesmith/images/StarWarslogo.svg)
+![StarWarsTitle](https://kelsiesmith.github.io/kelsiesmith/images/StarWarslogo.svg)
 
 I specifically wanted to look into creating a project about **Star Wars**. The **Star Wars** universe is very complex and closely examined by superfans and fanfictio writers alike. A problem I have I found in my own examination of the **Star Wars** universe is creating a mental map of the galaxy and keeping track of all the different planets. 
 
