@@ -15,7 +15,7 @@ This was the problem I decided to solve with my digital humanities project. I wo
 I knew this could be a great undertaking as I have never attempted to code a website in my life, but there are many helpful services to assist in the development of this skill. I was glad this is a theoretical grant and all I needed to do was understand the aspects of the project I would need to request money for. 
 
 In my search of for inspiration, I found a similar project digitizing a small map of the planets mentioned in the first **Star Wars** trilogy. This project was well-made, but I plan take a more detailed approach with my own project. Pictured below is the example project I found. 
-![Star Wars galaxy project](https://kelsiesmith.github.io/kelsiesmith/images/Star Wars Tite.png) 
+![Star Wars galaxy project](https://kelsiesmith.github.io/kelsiesmith/images/StarWarsTite.png) 
 
 
 
