@@ -6,7 +6,7 @@ As well as being unfamiliar with grant writing, I enetred this class unfamiliar 
 
 When I was asked to choose a topic for a theoretical grant, I had no idea where to start. I brainstormed what topics in the humanitie sinterested me and came up short at first. I am not into classical literature or art or historical events. After completing the second project review, I knew what humanities subject I wanted to examine: Fan studies. I love fan-written literature and I personally believe it is a highly underrated source of literature. 
 
-![Star Wars Title](https://kelsiesmith.github.io/kelsiesmith/images/Star_Wars_logo.svg)
+![Star Wars Title](https://kelsiesmith.github.io/kelsiesmith/images/StarWarslogo.svg)
 
 I specifically wanted to look into creating a project about **Star Wars**. The **Star Wars** universe is very complex and closely examined by superfans and fanfictio writers alike. A problem I have I found in my own examination of the **Star Wars** universe is creating a mental map of the galaxy and keeping track of all the different planets. 
 
@@ -15,7 +15,7 @@ This was the problem I decided to solve with my digital humanities project. I wo
 I knew this could be a great undertaking as I have never attempted to code a website in my life, but there are many helpful services to assist in the development of this skill. I was glad this is a theoretical grant and all I needed to do was understand the aspects of the project I would need to request money for. 
 
 In my search of for inspiration, I found a similar project digitizing a small map of the planets mentioned in the first **Star Wars** trilogy. This project was well-made, but I plan take a more detailed approach with my own project. Pictured below is the example project I found. 
-![Star Wars galaxy project](https://kelsiesmith.github.io/kelsiesmith/images/starwarstitle.png) 
+![Star Wars galaxy project](https://kelsiesmith.github.io/kelsiesmith/images/starwarstite.png) 
 
 
 
